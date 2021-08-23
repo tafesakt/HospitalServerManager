@@ -33,7 +33,7 @@
                    VerticalAlignment="Top" Name="pageTitle" Grid.ColumnSpan="2"/>
         <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center">
             <Button Content="Nowy rekord" Margin="30, 0, 30, 0"  Grid.Row="1" Click="NewRecordButton_Click" Width="150"/>
-            <Button Content="Usuń zaznaczone" Margin="30, 0, 30, 0"  Grid.Row="1" Grid.Column="1" Click="DeleteButton_Click" Width="150"/>
+            <Button Content="Usuń zaznaczone123" Margin="30, 0, 30, 0"  Grid.Row="1" Grid.Column="1" Click="DeleteButton_Click" Width="150"/>
             <Button Content="Edytuj rekord" Margin="30, 0, 30, 0"  Grid.Row="1" Click="EditButton_Click" Width="150"/>
         </StackPanel>
 

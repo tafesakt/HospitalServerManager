@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="a13b5573-74eb-437e-864d-d1069d681f5b" Publisher="CN=MarcelPC" Version="1.0.0.0" />
+  <Identity Name="a13b5573-74eb-437e-864d-d1069d681f5b" Publisher="CN=lau" Version="1.0.0.0" />
   <mp:PhoneIdentity PhoneProductId="a13b5573-74eb-437e-864d-d1069d681f5b" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>HospitalServerManager</DisplayName>
